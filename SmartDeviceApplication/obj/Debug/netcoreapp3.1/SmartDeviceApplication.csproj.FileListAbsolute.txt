@@ -1,0 +1,4 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartDeviceApplication\obj\Debug\netcoreapp3.1\SmartDeviceApplication.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartDeviceApplication\obj\Debug\netcoreapp3.1\SmartDeviceApplication.AssemblyInfoInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartDeviceApplication\obj\Debug\netcoreapp3.1\SmartDeviceApplication.AssemblyInfo.cs
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartDeviceApplication\obj\Debug\netcoreapp3.1\SmartDeviceApplication.csproj.CoreCompileInputs.cache
